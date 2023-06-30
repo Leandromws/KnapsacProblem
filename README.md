@@ -29,9 +29,7 @@ A programação dinâmica é uma técnica que resolve problemas dividindo-os em 
 
 A programação dinâmica é uma abordagem determinística que garante a obtenção da solução ótima para o problema da mochila. No entanto, sua eficiência depende do tamanho da entrada e da complexidade da função objetivo.
 
-## Resultados de Tempo
-
- de Execução
+## Resultados de Tempo de Execução
 
 A seguir, estão os resultados de tempo de execução para os dois algoritmos em diferentes tamanhos de entrada:
 
